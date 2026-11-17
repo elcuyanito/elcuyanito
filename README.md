@@ -10,7 +10,7 @@
 
 ---
 
-### Stack que uso:
+### Stack que domino
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -18,6 +18,3 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elcuyanito&count_private=true&include_all_commits=true&hide=prs,issues,repos&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats Privadas" />
-</p>

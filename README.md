@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elcuyanito&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elcuyanito&count_private=true&include_all_commits=true&hide=prs,issues,repos&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats Privadas" />
 </p>
